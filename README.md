@@ -32,8 +32,8 @@ To identify key drivers of sales and provide actionable business insights.
 
 ## 📊 Sample Visualizations
 
-![Sales by Gender](outputs/sales_by_gender.png)
-![Category Analysis](outputs/category_vs_quantity.png)
+![Sales by Gender](./outputs/sales_by_gender.png)
+![Category Analysis](./outputs/category_vs_quantity.png)
 
 ## 🚀 Future Improvements
 - Add ML model
